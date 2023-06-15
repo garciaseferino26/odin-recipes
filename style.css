@@ -1,0 +1,30 @@
+.header {
+    background-color: black;
+    color: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+img {
+    width: 750px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+ul.index.list {
+    color: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.subpars {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.list {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
