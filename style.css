@@ -1,8 +1,10 @@
 .header {
-    background-color: black;
-    color: lightgray;
+    background-color: lightgrey;
+    color: white;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    margin: 10px;
+    border: solid navy 5px;
 }
 
 img {
@@ -12,12 +14,24 @@ img {
     margin: 0 auto;
 }
 
-ul.index.list {
+.index.list {
     color: lightgray;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    display: block;
+    margin: 10px;
+    border: solid navy 5px;
 }
 
+a {
+    inline-size: 300px;
+    block-size: 100px;
+    background-color: lightgrey;
+    margin: 25px;
+    padding: 25px;
+    border: 5px navy solid;
+    display: inline-block;
+}
 .subpars {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
